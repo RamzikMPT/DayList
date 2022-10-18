@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace DayList
 {
-    internal class Program
+    public class Program
     {
+        public static int MoveDay = 0;
+        public static DateTime time = DateTime.Now;
+
+        
         static void Main(string[] args)
         {
+
         }
     }
 }

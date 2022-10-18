@@ -1,0 +1,8 @@
+C:\Users\79663\source\repos\DayList\DayList\bin\Debug\DayList.exe.config
+C:\Users\79663\source\repos\DayList\DayList\bin\Debug\DayList.exe
+C:\Users\79663\source\repos\DayList\DayList\bin\Debug\DayList.pdb
+C:\Users\79663\source\repos\DayList\DayList\obj\Debug\DayList.csproj.AssemblyReference.cache
+C:\Users\79663\source\repos\DayList\DayList\obj\Debug\DayList.csproj.SuggestedBindingRedirects.cache
+C:\Users\79663\source\repos\DayList\DayList\obj\Debug\DayList.csproj.CoreCompileInputs.cache
+C:\Users\79663\source\repos\DayList\DayList\obj\Debug\DayList.exe
+C:\Users\79663\source\repos\DayList\DayList\obj\Debug\DayList.pdb
